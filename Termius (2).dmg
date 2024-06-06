@@ -1,0 +1,18 @@
+included:
+
+# Attack surface: (e.g. my.telegram.org/auth)
+# Severity: (e.g. 7) [Optional, CVSS v3 rating]
+
+## Description: 
+[Describe the vulnerability briefly here, including its type]
+
+## Steps to reproduce:
+[1] Step one...
+[2] Step two...
+[n] Finally...
+
+## Impact:
+[What practical, realistic risk does this vulnerability pose?]
+
+## Additional details:
+[Tools used, preconditions, media proof, session and timestamps as needed]
