@@ -1,8 +1,0 @@
-  File "<string>", line 1
-    ===================
-     ^
-SyntaxError: invalid syntax
-
-
- *My favorite app::pythoni2.7  https://itunes.apple.com/app/id576107879?mt=8
-Other's Tutorals:http://iii9i.com
